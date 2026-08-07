@@ -6,7 +6,7 @@ Building one Java project every day to strengthen Core Java, OOP, Collections, a
 ## Week 1: Java Basics
 
 * [x] Day 1: Calculator
-* [ ] Day 2: Temperature Converter
+* [x] Day 2: Temperature Converter
 * [ ] Day 3: BMI Calculator
 * [ ] Day 4: Age Calculator
 * [ ] Day 5: Simple Interest Calculator
