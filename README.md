@@ -7,7 +7,7 @@ Building one Java project every day to strengthen Core Java, OOP, Collections, a
 
 * [x] Day 1: Calculator
 * [x] Day 2: Temperature Converter
-* [ ] Day 3: BMI Calculator
+* [x] Day 3: BMI Calculator
 * [ ] Day 4: Age Calculator
 * [ ] Day 5: Simple Interest Calculator
 * [ ] Day 6: Electricity Bill Calculator
