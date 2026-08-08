@@ -1,7 +1,7 @@
 # 30-days-java-challenge
 Building one Java project every day to strengthen Core Java, OOP, Collections, and DSA.
 
-**Completed:** 0/30 
+**Completed:** 3/30 
 
 ## Week 1: Java Basics
 
@@ -46,5 +46,3 @@ Building one Java project every day to strengthen Core Java, OOP, Collections, a
 * [ ] Day 30: ATM Simulator
 
 Goal - to buy a blind box
-
-**Status:** ⏳ In Progress
