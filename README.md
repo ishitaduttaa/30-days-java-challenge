@@ -1,7 +1,7 @@
 # 30-days-java-challenge
 Building one Java project every day to strengthen Core Java, OOP, Collections, and DSA.
 
-**Completed:** 5/30 
+**Completed:** 6/30 
 
 ## Week 1: Java Basics
 
@@ -10,7 +10,7 @@ Building one Java project every day to strengthen Core Java, OOP, Collections, a
 * [x] Day 3: BMI Calculator
 * [x] Day 4: Age Calculator
 * [x] Day 5: Simple Interest Calculator
-* [ ] Day 6: Electricity Bill Calculator
+* [x] Day 6: Electricity Bill Calculator
 * [ ] Day 7: Number Guessing Game
 
 ##  Week 2: Strings & Arrays
