@@ -1,7 +1,7 @@
 # 30-days-java-challenge
 Building one Java project every day to strengthen Core Java, OOP, Collections, and DSA.
 
-**Completed:** 7/30 
+**Completed:** 8/30 
 
 ## Week 1: Java Basics
 
@@ -15,7 +15,7 @@ Building one Java project every day to strengthen Core Java, OOP, Collections, a
 
 ##  Week 2: Strings & Arrays
 
-* [ ] Day 8: Student Grade Calculator
+* [x] Day 8: Student Grade Calculator
 * [ ] Day 9: Marks Analyzer
 * [ ] Day 10: Password Strength Checker
 * [ ] Day 11: Palindrome Checker
