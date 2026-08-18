@@ -20,7 +20,7 @@ Building one Java project every day to strengthen Core Java, OOP, Collections, a
 * [x] Day 10: Password Strength Checker
 * [x] Day 11: Palindrome Checker
 * [x] Day 12: Character Frequency Counter
-* [ ] Day 13: Word Counter
+* [x] Day 13: Word Counter
 * [ ] Day 14: Expense Tracker
 
 ##  Week 3: OOP & Collections
