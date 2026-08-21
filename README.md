@@ -26,7 +26,7 @@ Building one Java project every day to strengthen Core Java, OOP, Collections, a
 ##  Week 3: OOP & Collections
 
 * [x] Day 15: Contact Book
-* [ ] Day 16: Shopping Cart
+* [x] Day 16: Shopping Cart
 * [ ] Day 17: Student Management System
 * [ ] Day 18: Library Management System
 * [ ] Day 19: Employee Management System
