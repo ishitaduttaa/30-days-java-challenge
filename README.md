@@ -1,7 +1,7 @@
 # 30-days-java-challenge
 Building one Java project every day to strengthen Core Java, OOP, Collections, and DSA.
 
-**Completed:** 20/30 
+**Completed:** 21/30 
 
 ## Week 1: Java Basics
 
@@ -31,7 +31,7 @@ Building one Java project every day to strengthen Core Java, OOP, Collections, a
 * [x] Day 18: Library Management System
 * [x] Day 19: Employee Management System
 * [x] Day 20: Banking System
-* [ ] Day 21: Inventory Management System
+* [x] Day 21: Inventory Management System
 
 ##  Week 4: DSA in Real-World Problems
 
