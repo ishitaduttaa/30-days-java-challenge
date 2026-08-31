@@ -1,7 +1,7 @@
 # 30-days-java-challenge
 Building one Java project every day to strengthen Core Java, OOP, Collections, and DSA.
 
-**Completed:** 21/30 
+**Completed:** 22/30 
 
 ## Week 1: Java Basics
 
@@ -35,7 +35,7 @@ Building one Java project every day to strengthen Core Java, OOP, Collections, a
 
 ##  Week 4: DSA in Real-World Problems
 
-* [ ] Day 22: Restaurant Ordering System
+* [x] Day 22: Restaurant Ordering System
 * [ ] Day 23: Browser History (Stack)
 * [ ] Day 24: Hospital Queue (Queue)
 * [ ] Day 25: Music Playlist (LinkedList)
