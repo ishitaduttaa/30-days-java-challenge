@@ -37,10 +37,10 @@ Building one Java project every day to strengthen Core Java, OOP, Collections, a
 
 * [x] Day 22: Restaurant Ordering System
 * [x] Day 23: Browser History (Stack)
-* [ ] Day 24: Hospital Queue (Queue)
-* [ ] Day 25: Music Playlist (LinkedList)
-* [ ] Day 26: Phone Directory (HashMap)
-* [ ] Day 27: Task Scheduler (Priority Queue)
+* [x] Day 24: Hospital Queue (Queue)
+* [x] Day 25: Music Playlist (LinkedList)
+* [x] Day 26: Phone Directory (HashMap)
+* [x] Day 27: Task Scheduler (Priority Queue)
 * [ ] Day 28: Quiz Application
 * [ ] Day 29: Movie Ticket Booking System
 * [ ] Day 30: ATM Simulator
